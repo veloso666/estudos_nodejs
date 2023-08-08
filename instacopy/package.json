@@ -26,6 +26,7 @@
     "typescript": "5.1.6"
   },
   "devDependencies": {
+    "@types/jsonwebtoken": "^9.0.2",
     "@types/md5": "^2.3.2"
   }
 }
